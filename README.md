@@ -62,7 +62,7 @@ Chip8Emulator/
 
 ### Clone the repository
 ```
-git clone https://github.com/your-username/Chip8Emulator.git
+git clone https://github.com/AhteshamulHaque/Chip8Emulator.git
 cd Chip8Emulator
 ```
 
